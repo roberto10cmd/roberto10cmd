@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Robert Gradinariu</h1>
-<h3 align="center">A passionate software developer from Romania</h3>
+<h3 align="center">A passionate Computer Science student from Romania</h3>
 
 - 🔭 I’m currently **a computer science student**
 
