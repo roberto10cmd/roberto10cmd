@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently **a computer science student**
 
-- 🌱 I’m currently learning **Java Spring**
-
-- 🤝 I’m looking for help with **Software Developer**
+- 🌱 I’m currently learning **Java Spring**, and diving deeper into **Deep Learning** and **Computer Vision**
+- 
+- 🤖 I enjoy building smart systems using **Python, PyTorch, and OpenCV**, and I’m exploring how ML can be applied in real-world applications
 
 - 💬 Ask me about **engineering**
 
